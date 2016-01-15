@@ -1,8 +1,0 @@
-B Indique.el.Período.Académico.a.renovar (colocar un formato estandar)
-D Fecha.de.Nacimiento..colocar.sólo.datos.numéricos.
-E Edad (dejar solamente la edad)
-F Estado.Civil (validar que todos los estados sean validos)
-K Semestre.que.cursa (dejar solo el nro)
-R Promedio.ponderado.aprobado (los promedios deben estar en el rango [0,20])
-S Eficiencia (debe estar entre 0 y 1)
-
